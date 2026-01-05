@@ -27,7 +27,7 @@ while (1) {
 	    if (score >= 55)
 		    printf("%d(D)\n",score);
 	    else 
-		    printf("%d(E)\n",score);
+		    printf("%d(F)\n",score);
     }
 }
 else { //bonus 2
@@ -37,6 +37,7 @@ else { //bonus 2
 
 	
 }
+
 
 
 
